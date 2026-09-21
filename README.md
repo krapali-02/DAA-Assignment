@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/krapali-02/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krapali-02/DAA-Assignment/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/krapali-02/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/krapali-02/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/krapali-02/DAA-Assignment/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/krapali-02/DAA-Assignment/tree/master/0704-binary-search) |
 ## Binary Search
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krapali-02/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/krapali-02/DAA-Assignment/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/krapali-02/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
