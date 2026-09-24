@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/krapali-02/DAA-Assignment/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/krapali-02/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krapali-02/DAA-Assignment/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/krapali-02/DAA-Assignment/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/krapali-02/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/krapali-02/DAA-Assignment/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krapali-02/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krapali-02/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/krapali-02/DAA-Assignment/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krapali-02/DAA-Assignment/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/krapali-02/DAA-Assignment/tree/master/0085-maximal-rectangle) |
 ## Merge Sort
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krapali-02/DAA-Assignment/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/krapali-02/DAA-Assignment/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/krapali-02/DAA-Assignment/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/krapali-02/DAA-Assignment/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/krapali-02/DAA-Assignment/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/krapali-02/DAA-Assignment/tree/master/0402-remove-k-digits) |
 ## Range Minimum/Maximum Query
 |  |
