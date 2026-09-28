@@ -164,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/krapali-02/DAA-Assignment/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
