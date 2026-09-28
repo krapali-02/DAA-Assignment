@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/krapali-02/DAA-Assignment/tree/master/0402-remove-k-digits) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/krapali-02/DAA-Assignment/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/krapali-02/DAA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/krapali-02/DAA-Assignment/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/krapali-02/DAA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/krapali-02/DAA-Assignment/tree/master/0199-binary-tree-right-side-view) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/krapali-02/DAA-Assignment/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/krapali-02/DAA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -151,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krapali-02/DAA-Assignment/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/krapali-02/DAA-Assignment/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
